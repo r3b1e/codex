@@ -36,3 +36,7 @@ def chat_api():
 
 if __name__ == '__main__':
     app.run(debug=True)
+    
+#DESCRIPTION 
+#   WE HAVE CRETED A CHATBOT WHICH CAN RESOLVE THE SMALLER DOUT OF THE STUDENT AFTER THE SESSION OR IF HE 
+#   HE HAS SOME MINOR DOUT 
